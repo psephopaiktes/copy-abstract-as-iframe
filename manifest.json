@@ -1,7 +1,7 @@
 {
   "name": "copy-abstract-as-iframe",
   "author": "Akira HIRATA",
-  "description": "You can copy iframe text for emebe Abstract.",
+  "description": "You can copy iframe text for embed Abstract.",
   "version": "1.0.0",
   "manifest_version": 2,
   "web_accessible_resources": ["*"],
